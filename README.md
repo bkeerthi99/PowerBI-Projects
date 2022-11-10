@@ -1,10 +1,9 @@
-# PowerBI
+#Sales Insights Data Analysis Project
+ 
 
-Sales Insights Data Analysis Project
 
-SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it as per instructions given in the tutorial video
+Data analysis on SQL:
 
-Data Analysis Using SQL
 Show all customer records
 
 SELECT * FROM customers;
